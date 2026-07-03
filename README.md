@@ -60,16 +60,6 @@ The goal isn't AI for its own sake — it's reducing operational toil for the en
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
-## 💼 Career Path
-
-| Company | Role | Timeline |
-|---|---|---|
-| Almosafer (Dubai) | DevOps Manager | 2022 – Present |
-| Oracle India (Bangalore) | DevOps Developer III | 2020 – 2021 |
-| Tata Communications (Chennai) | Sr. Technical Associate | 2017 – 2020 |
-| Virtusa Polaris (Chennai) | Associate Consultant | 2016 – 2017 |
-| Ruby Seven Studios (Cochin) | DevOps Engineer | 2013 – 2016 |
-
 ## 📊 GitHub Stats
 
 <div align="center">
