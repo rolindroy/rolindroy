@@ -60,12 +60,22 @@ The goal isn't AI for its own sake — it's reducing operational toil for the en
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 
+## 💼 Career Path
+
+| Company | Role | Timeline |
+|---|---|---|
+| Almosafer (Dubai) | DevOps Manager | 2022 – Present |
+| Oracle India (Bangalore) | DevOps Developer III | 2020 – 2021 |
+| Tata Communications (Chennai) | Sr. Technical Associate | 2017 – 2020 |
+| Virtusa Polaris (Chennai) | Associate Consultant | 2016 – 2017 |
+| Ruby Seven Studios (Cochin) | DevOps Engineer | 2013 – 2016 |
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rolindroy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolindroy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+<img src="./profile/stats.svg" alt="GitHub Stats" height="165">
+<img src="./profile/top-langs.svg" alt="Top Languages" height="165">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolindroy&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
@@ -77,7 +87,6 @@ Open to consulting engagements and advisory conversations on cloud infrastructur
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/rolind.me-visit-1a1a2e?style=flat-square)](https://rolind.me)
 [![LinkedIn](https://img.shields.io/badge/rolindroy-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rolindroy)
 [![Calendly](https://img.shields.io/badge/15min-book%20a%20call-006BFF?style=flat-square&logo=googlecalendar&logoColor=white)](https://calendly.com/rolind-roy/15min)
 
