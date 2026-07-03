@@ -31,51 +31,18 @@ The goal isn't AI for its own sake — it's reducing operational toil for the en
 
 ## 🛠️ Tech Stack
 
-**Cloud & Platform**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Infrastructure as Code & Automation**
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-**Observability & Data**
-
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Fluent Bit](https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=flat-square&logo=fluentd&logoColor=white)
-![Vector.dev](https://img.shields.io/badge/Vector.dev-FCA326?style=flat-square)
-
-**Languages & AI Tooling**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-
-## 💼 Career Path
-
-| Company | Role | Timeline |
-|---|---|---|
-| Almosafer (Dubai) | DevOps Manager | 2022 – Present |
-| Oracle India (Bangalore) | DevOps Developer III | 2020 – 2021 |
-| Tata Communications (Chennai) | Sr. Technical Associate | 2017 – 2020 |
-| Virtusa Polaris (Chennai) | Associate Consultant | 2016 – 2017 |
-| Ruby Seven Studios (Cochin) | DevOps Engineer | 2013 – 2016 |
+![Cloud](https://img.shields.io/badge/Cloud-2E3440?style=flat-square)
+![Containers & Orchestration](https://img.shields.io/badge/Containers%20%26%20Orchestration-2E3440?style=flat-square)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure%20as%20Code-2E3440?style=flat-square)
+![CI/CD & Automation](https://img.shields.io/badge/CI%2FCD%20%26%20Automation-2E3440?style=flat-square)
+![Observability & Monitoring](https://img.shields.io/badge/Observability%20%26%20Monitoring-2E3440?style=flat-square)
+![Data & Messaging](https://img.shields.io/badge/Data%20%26%20Messaging-2E3440?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-2E3440?style=flat-square)
+![AI / LLMs](https://img.shields.io/badge/AI%20%2F%20LLMs-2E3440?style=flat-square)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="./profile/stats.svg" alt="GitHub Stats" height="165">
-<img src="./profile/top-langs.svg" alt="Top Languages" height="165">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolindroy&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
